@@ -1,5 +1,5 @@
 
-
+![Fairies](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/blob/main/The%20Sims%204%20Fairies%20vs%20Witches%20Mod/title%20(1).png?raw=true)
 # MOD แปลไทยสำหรับ Fairies vs. Witches
 ## อัตราการแปล 30.12%  อัพเดท 15 มิถุนายน 2564
 
@@ -15,7 +15,8 @@
 
 
 # SS
-
+![Fairies](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/blob/main/The%20Sims%204%20Fairies%20vs%20Witches%20SS/sp_creates-1403572390903181313-20210612_113829-img1.jpg?raw=true)
+![Fairies](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/blob/main/The%20Sims%204%20Fairies%20vs%20Witches%20SS/sp_creates-1403517531583778818-20210612_080030-img1.jpg?raw=true)
 
 # หากพบปัญหา ติดต่อได้ที่
 # # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
