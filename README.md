@@ -30,6 +30,8 @@
 
 
 # SS
+![image](https://user-images.githubusercontent.com/13219372/122051369-b961f200-ce0e-11eb-9617-00e1688c1559.png)
+![image](https://user-images.githubusercontent.com/13219372/122051379-bc5ce280-ce0e-11eb-9d77-ba4314c087bc.png)
 ![image](https://user-images.githubusercontent.com/13219372/122050546-bca8ae00-ce0d-11eb-96d5-ed61f278e16e.png)
 ![image](https://user-images.githubusercontent.com/13219372/122050521-b9adbd80-ce0d-11eb-8b52-fddc53ce126d.png)
 
