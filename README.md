@@ -1,20 +1,20 @@
+![image](https://user-images.githubusercontent.com/13219372/122054824-3d69a900-ce12-11eb-9e8a-1bebc9f3bd2f.png)
 
-![Fairies](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/blob/main/The%20Sims%204%20Fairies%20vs%20Witches%20Mod/title%20(1).png?raw=true)
 # MOD แปลไทยสำหรับ Fairies vs. Witches
-## อัตราการแปล 30.12%  อัพเดท 15 มิถุนายน 2564
+## อัตราการแปล 52.32%  อัพเดท 15 มิถุนายน 2564
 
 | MOD   | Download |
 | ------------- | ------------- |
 |Fairies ตัวเล่น|[MOD หลัก Fairies vs. Witches](https://www.patreon.com/posts/sims-4-fairies-52330299)|
 |ส่วนเสริม Whitelighter Mod|[Whitelighter](https://www.patreon.com/posts/whitelighter-mod-30418919?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)|
-|Witches V0 |[MOD แปลไทย Witches ภาษาไทย](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/raw/main/%5BSIMSCOLONY%5D_FAIRY_THAI_V0.package)|
+|Witches V0 |[MOD แปลไทย Witches ภาษาไทย](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/raw/main/%5BSIMSCOLONY%5D_FAIRY_THAI_V1.package)|
 
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  Fairies vs. Witch และ [SIMSCOLONY]Fairies vs. Witch แปลไทย ลง Floder Mod ของเกม The sims 4
 
 # การเล่น
-เข้าโหมดสร้างและหารูปปั้นแฟรรี่ร้ำไห้
+เข้าโหมดสร้างและหารูปปั้นแฟรี่
 
 ![Fairies](https://user-images.githubusercontent.com/13219372/122050070-515edc00-ce0d-11eb-8d23-ab76217c4c03.png)
 
