@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/13219372/122054824-3d69a900-ce12-11eb-9e8a-1bebc9f3bd2f.png)
 
 # MOD แปลไทยสำหรับ Fairies vs. Witches
-## อัตราการแปล 52.32%  อัพเดท 15 มิถุนายน 2564
+## อัตราการแปล 52.32%  อัพเดท 17 มิถุนายน 2564
 
 | MOD   | Download |
 | ------------- | ------------- |
