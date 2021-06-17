@@ -14,7 +14,7 @@
 ทำการแตกไฟล์ MOD หลัก  Fairies vs. Witch และ [SIMSCOLONY]Fairies vs. Witch แปลไทย ลง Floder Mod ของเกม The sims 4
 
 # การเล่น
-เข้าโหมดสร้างและหารูปปั้นแฟรรี่ร้ำไห้
+เข้าโหมดสร้างและหารูปปั้นแฟรี่
 
 ![Fairies](https://user-images.githubusercontent.com/13219372/122050070-515edc00-ce0d-11eb-8d23-ab76217c4c03.png)
 
