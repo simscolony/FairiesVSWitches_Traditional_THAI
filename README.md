@@ -3,7 +3,7 @@
 # MOD แปลไทยสำหรับ Fairies vs. Witches
 ## อัตราการแปล 100%  อัพเดท 16 มีนาคม 2565
 
-| MOD   | Download |
+| MOD| Download |รายละเอียด |
 | ------------- | ------------- |------------- |
 |Fairies ตัวเล่น|[MOD หลัก Fairies vs. Witches](https://www.patreon.com/posts/sims-4-fairies-52330299)| ตัวเล่น|
 |ส่วนเสริม Whitelighter Mod|[Whitelighter](https://www.patreon.com/posts/whitelighter-mod-30418919?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)|ส่วนเสริมตัวเล่น|
