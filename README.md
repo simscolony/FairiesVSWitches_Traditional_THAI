@@ -7,7 +7,7 @@
 | ------------- | ------------- |------------- |
 |Fairies ตัวเล่น|[MOD หลัก Fairies vs. Witches](https://www.patreon.com/posts/sims-4-fairies-52330299)| ตัวเล่น|
 |ส่วนเสริม Whitelighter Mod|[Whitelighter](https://www.patreon.com/posts/whitelighter-mod-30418919?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)|ส่วนเสริมตัวเล่น - ไม่เล่นไม่ต้องโหลด|
-|Download ไทย|[Fairies vs. Witche แปลไทย](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/raw/refs/heads/main/%5BSIMSCOLONY%5D%20SpinningPlumbobs_Fairies_THAI_2025.package)|แปลไทยอย่างเดียว|
+|Download ไทย|[Fairies vs. Witche แปลไทย](https://github.com/simscolony/FairiesVSWitches_Traditional_THAI/raw/refs/heads/main/%5BSIMSCOLONY%5D%20Fairies%20vs%20Witches%20TH%202026.package)|แปลไทยอย่างเดียว|
 |Download ไทย|[Whitelighter Mod แปลไทย](*)|รออัพเดท|
 
 
